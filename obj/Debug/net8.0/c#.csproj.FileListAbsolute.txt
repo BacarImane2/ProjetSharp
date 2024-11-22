@@ -1,0 +1,58 @@
+/Users/imanebacar/Desktop/c#/bin/Debug/net8.0/c#
+/Users/imanebacar/Desktop/c#/bin/Debug/net8.0/c#.deps.json
+/Users/imanebacar/Desktop/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/imanebacar/Desktop/c#/bin/Debug/net8.0/c#.dll
+/Users/imanebacar/Desktop/c#/bin/Debug/net8.0/c#.pdb
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.dll
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/refint/c#.dll
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.pdb
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/imanebacar/Desktop/c#/obj/Debug/net8.0/ref/c#.dll
+/Users/imanebacar/Desktop/c#/Exercice /bin/Debug/net8.0/c#
+/Users/imanebacar/Desktop/c#/Exercice /bin/Debug/net8.0/c#.deps.json
+/Users/imanebacar/Desktop/c#/Exercice /bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/imanebacar/Desktop/c#/Exercice /bin/Debug/net8.0/c#.dll
+/Users/imanebacar/Desktop/c#/Exercice /bin/Debug/net8.0/c#.pdb
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.dll
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/refint/c#.dll
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.pdb
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/imanebacar/Desktop/c#/Exercice /obj/Debug/net8.0/ref/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/bin/Debug/net8.0/c#
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/bin/Debug/net8.0/c#.deps.json
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/bin/Debug/net8.0/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/bin/Debug/net8.0/c#.pdb
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.sourcelink.json
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/refint/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.pdb
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/Exercice/obj/Debug/net8.0/ref/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/bin/Debug/net8.0/c#
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/bin/Debug/net8.0/c#.deps.json
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/bin/Debug/net8.0/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/bin/Debug/net8.0/c#.pdb
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.sourcelink.json
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/refint/c#.dll
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.pdb
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/imanebacar/Documents/Master_GLSI/semestre 1/C# et Tech/C# Exec/TD_7/Conversion/obj/Debug/net8.0/ref/c#.dll
