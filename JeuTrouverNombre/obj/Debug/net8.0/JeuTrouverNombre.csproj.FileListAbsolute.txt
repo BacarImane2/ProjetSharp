@@ -1,0 +1,15 @@
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/bin/Debug/net8.0/JeuTrouverNombre
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/bin/Debug/net8.0/JeuTrouverNombre.deps.json
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/bin/Debug/net8.0/JeuTrouverNombre.runtimeconfig.json
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/bin/Debug/net8.0/JeuTrouverNombre.dll
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/bin/Debug/net8.0/JeuTrouverNombre.pdb
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.AssemblyInfoInputs.cache
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.AssemblyInfo.cs
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.csproj.CoreCompileInputs.cache
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.sourcelink.json
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.dll
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/refint/JeuTrouverNombre.dll
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.pdb
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/JeuTrouverNombre.genruntimeconfig.cache
+/Users/imanebacar/Desktop/C#/JeuTrouverNombre/obj/Debug/net8.0/ref/JeuTrouverNombre.dll
